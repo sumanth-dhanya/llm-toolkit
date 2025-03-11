@@ -7,13 +7,22 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 </p>
 
 ## Quick links
-||||
-|---|---|---|
-| [🚀 LLM Training](#llm-training-and-fine-tuning) | [🧱 LLM Application Development](#llm-application-development) | [🩸LLM RAG](#llm-rag) | 
-| [🟩 LLM Inference](#llm-inference)| [🚧 LLM Serving](#llm-serving) | [📤 LLM Data Extraction](#llm-data-extraction) |
-| [🌠 LLM Data Generation](#llm-data-generation) | [💎 LLM Agents](#llm-agents)|[⚖️ LLM Evaluation](#llm-evaluation) | 
-| [🔍 LLM Monitoring](#llm-monitoring) | [📅 LLM Prompts](#llm-prompts) | [📝 LLM Structured Outputs](#llm-structured-outputs) |
+|                                                        |||
+|--------------------------------------------------------|---|---|
+| [🚀 LLM Training](#llm-training-and-fine-tuning)       | [🧱 LLM Application Development](#llm-application-development) | [🩸LLM RAG](#llm-rag) | 
+| [🟩 LLM Inference](#llm-inference)                     | [🚧 LLM Serving](#llm-serving) | [📤 LLM Data Extraction](#llm-data-extraction) |
+| [🌠 LLM Data Generation](#llm-data-generation)         | [💎 LLM Agents](#llm-agents)|[⚖️ LLM Evaluation](#llm-evaluation) | 
+| [🔍 LLM Monitoring](#llm-monitoring)                   | [📅 LLM Prompts](#llm-prompts) | [📝 LLM Structured Outputs](#llm-structured-outputs) |
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models) | [❇️ Others](#others) |
+| [ 🏁 LLM Leaderboard](#llm-leaderboard)                |                                                  |                      |
+
+
+## LLM Leaderboard
+
+| Web Page      | Description                                                 | Link                                  |
+|---------------|-------------------------------------------------------------|---------------------------------------|
+| Chatbor Arena | An open platform for crowdsourced AI benchmarking           | [Link](https://lmarena.ai/?leaderboard)|
+| SEAL          | Evals and differnt concept model on wide vareiety of tasks. | [Link](https://scale.com/leaderboard)|
 
 
 ## LLM Training and Fine-Tuning
