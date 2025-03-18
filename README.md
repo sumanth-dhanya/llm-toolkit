@@ -135,10 +135,11 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 
 ## LLM Serving
 
-| Library  | Description                                                       | Link                                             | GitHub Stars                                                                                 |
-|----------|-------------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Langcorn | Serving LangChain LLM apps and agents automagically with FastAPI. | [Link](https://github.com/msoedov/langcorn)      | ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)      |
+| Library  | Description                                                       | Link                                             | GitHub Stars                                                                                |
+|----------|-------------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Langcorn | Serving LangChain LLM apps and agents automagically with FastAPI. | [Link](https://github.com/msoedov/langcorn)      | ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)     |
 | LitServe | Lightning-fast serving engine for any AI model of any size.       | [Link](https://github.com/Lightning-AI/LitServe) | ![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social) |
+| Lorax    |  serve thousands of fine-tuned models on a single GPU, dramatically reducing the cost of serving without compromising on throughput or latency.      | [Link](https://github.com/predibase/lorax) | ![GitHub Repo stars](https://img.shields.io/github/stars/predibase/lorax?style=social) |
 
 ## LLM Data Extraction
 
