@@ -16,7 +16,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | [🌠 LLM Data Generation](#llm-data-generation)         | [💎 LLM Agents](#llm-agents)                                   | [⚖️ LLM Evaluation](#llm-evaluation)                 | 
 | [🔍 LLM Monitoring](#llm-monitoring)                   | [📅 LLM Prompts](#llm-prompts)                                 | [📝 LLM Structured Outputs](#llm-structured-outputs) |
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [❇️ Others](#others)                                 |
-| [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 |                                                      |
+| [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
 
 ## LLM Leaderboard
 
@@ -122,6 +122,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | RAGatouille   | allows us to easily use and train state-of-the-art late-interaction retrieval methods (ColBERT) in any RAG pipeline.                    | [Link](https://github.com/AnswerDotAI/RAGatouille)           | ![GitHub Repo stars](https://img.shields.io/github/stars/AnswerDotAI/RAGatouille?style=social)     |
 | ColPali       | method leverages Vision-Language Models (VLMs) and the late interaction mechanism from ColBERT to enable precise cross-modal retrieval. | [Link](https://github.com/illuin-tech/colpali)               | ![GitHub Repo stars](https://img.shields.io/github/stars/illuin-tech/colpali?style=social)         |
 | Vectara       | Build Agentic RAG applications.                                                                                                         | [Link](https://vectara.github.io/py-vectara-agentic/latest/) |                                                                                                    |
+| Morphik       | Technical data extraction. Ex: What is the height of screw 14-A in the instructions?                                                    | [Link](https://github.com/morphik-org/morphik-core)          | ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)    |
 
 ## LLM Inference
 
@@ -265,12 +266,12 @@ Agent is a system that leverages AI model to interact with its environment in or
 
 ## LLM Embedding Models
 
-| Library                  | Description                                                                                                                                                                    | Link                                                             | Stars                                                                                                          |
-|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Sentence-Transformers    | State-of-the-Art Text Embeddings                                                                                                                                               | [Link](https://github.com/UKPLab/sentence-transformers)          | ![GitHub Repo stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social)            |
-| Model2Vec                | Fast State-of-the-Art Static Embeddings                                                                                                                                        | [Link](https://github.com/MinishLab/model2vec)                   | ![GitHub Repo stars](https://img.shields.io/github/stars/MinishLab/model2vec?style=social)                     |
-| Text Embedding Inference | A blazing fast inference solution for text embeddings models. TEI enables high-performance extraction for the most popular models, including FlagEmbedding, Ember, GTE and E5. | [Link](https://github.com/huggingface/text-embeddings-inference) | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/text-embeddings-inference?style=social)   |
-| EmbedAnything            | A Rust based super fast makes generating embeddings from multiple sources like image, video, or audio easy.                                                                    | [Link](https://github.com/StarlightSearch/EmbedAnything)         |  ![GitHub Repo stars](https://img.shields.io/github/stars/StarlightSearch/EmbedAnything?style=social)   |
+| Library                  | Description                                                                                                                                                                    | Link                                                             | Stars                                                                                                        |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Sentence-Transformers    | State-of-the-Art Text Embeddings                                                                                                                                               | [Link](https://github.com/UKPLab/sentence-transformers)          | ![GitHub Repo stars](https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social)          |
+| Model2Vec                | Fast State-of-the-Art Static Embeddings                                                                                                                                        | [Link](https://github.com/MinishLab/model2vec)                   | ![GitHub Repo stars](https://img.shields.io/github/stars/MinishLab/model2vec?style=social)                   |
+| Text Embedding Inference | A blazing fast inference solution for text embeddings models. TEI enables high-performance extraction for the most popular models, including FlagEmbedding, Ember, GTE and E5. | [Link](https://github.com/huggingface/text-embeddings-inference) | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/text-embeddings-inference?style=social) |
+| EmbedAnything            | A Rust based super fast makes generating embeddings from multiple sources like image, video, or audio easy.                                                                    | [Link](https://github.com/StarlightSearch/EmbedAnything)         | ![GitHub Repo stars](https://img.shields.io/github/stars/StarlightSearch/EmbedAnything?style=social)         |
 
 ## Others
 
@@ -289,6 +290,12 @@ Agent is a system that leverages AI model to interact with its environment in or
 | LLMSanitize           | An open-source library for contamination detection in NLP datasets and Large Language Models (LLMs).                                                                                                               | [Link](https://github.com/ntunlp/LLMSanitize)                     | ![GitHub Repo stars](https://img.shields.io/github/stars/ntunlp/LLMSanitize?style=social)                     |
 | Annotateai            | Automatically annotate papers using LLMs.                                                                                                                                                                          | [Link](https://github.com/neuml/annotateai)                       | ![GitHub Repo stars](https://img.shields.io/github/stars/neuml/annotateai?style=social)                       |
 | LLM Reasoner          | Make any LLM think like OpenAI o1 and DeepSeek R1.                                                                                                                                                                 | [Link](https://github.com/harishsg993010/LLM-Reasoner)            | ![GitHub Repo stars](https://img.shields.io/github/stars/harishsg993010/LLM-Reasoner?style=social)            |
+
+## LLM tools
+
+ Webpage     | Description                                                               | Link                               | Docs                                    |
+|-------------|---------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
+| Flora Fauna | Creatuve tool to make images into animation and other creative prototypes | [Link](https://www.florafauna.ai/) | [Docs](https://floraai.gitbook.io/docs) |
 
 ## ⭐️
 
