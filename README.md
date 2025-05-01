@@ -293,9 +293,10 @@ Agent is a system that leverages AI model to interact with its environment in or
 
 ## LLM tools
 
- Webpage     | Description                                                               | Link                               | Docs                                    |
-|-------------|---------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
-| Flora Fauna | Creatuve tool to make images into animation and other creative prototypes | [Link](https://www.florafauna.ai/) | [Docs](https://floraai.gitbook.io/docs) |
+ Webpage     | Description                                                                                           | Link                               | Docs                                    |
+|-------------|-------------------------------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
+| Flora Fauna | Creatuve tool to make images into animation and other creative prototypes                             | [Link](https://www.florafauna.ai/) | [Docs](https://floraai.gitbook.io/docs) |
+| Story Doc   | Easily create stunning, interactive slide decks that increase engagement. Cool pitch or slide making. | [Link](https://www.storydoc.com/)  |                                         |
 
 ## ⭐️
 
