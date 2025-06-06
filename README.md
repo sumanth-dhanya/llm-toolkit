@@ -305,10 +305,11 @@ Agent is a system that leverages AI model to interact with its environment in or
 
 ## LLM tools
 
- Webpage     | Description                                                                                           | Link                               | Docs                                    |
-|-------------|-------------------------------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|
-| Flora Fauna | Creatuve tool to make images into animation and other creative prototypes                             | [Link](https://www.florafauna.ai/) | [Docs](https://floraai.gitbook.io/docs) |
-| Story Doc   | Easily create stunning, interactive slide decks that increase engagement. Cool pitch or slide making. | [Link](https://www.storydoc.com/)  |                                         |
+ Webpage     | Description                                                                                                                                                                                          | Link                                             | Docs                                                                                         |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Paper2code  | PaperCoder is a multi-agent LLM system that transforms paper into a code repository. It follows a three-stage pipeline: planning, analysis, and code generation, each handled by specialized agents. | [Link](https://github.com/going-doer/Paper2Code) | ![GitHub Repo stars](https://img.shields.io/github/stars/going-doer/Paper2Code?style=social) |
+| Flora Fauna | Creatuve tool to make images into animation and other creative prototypes                                                                                                                            | [Link](https://www.florafauna.ai/)               | [Docs](https://floraai.gitbook.io/docs)                                                      |
+| Story Doc   | Easily create stunning, interactive slide decks that increase engagement. Cool pitch or slide making.                                                                                                | [Link](https://www.storydoc.com/)                |                                                                                              |
 
 ## ⭐️
 
