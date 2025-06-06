@@ -15,8 +15,9 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | [🟩 LLM Inference](#llm-inference)                     | [🚧 LLM Serving](#llm-serving)                                 | [📤 LLM Data Extraction](#llm-data-extraction)       |
 | [🌠 LLM Data Generation](#llm-data-generation)         | [💎 LLM Agents](#llm-agents)                                   | [⚖️ LLM Evaluation](#llm-evaluation)                 | 
 | [🔍 LLM Monitoring](#llm-monitoring)                   | [📅 LLM Prompts](#llm-prompts)                                 | [📝 LLM Structured Outputs](#llm-structured-outputs) |
-| [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [❇️ Others](#others)                                 |
+| [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [🔖 LLM Scraping](#llm-scraping)                     |
 | [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
+| [❇️ Others](#others)                                   |                                                                |                                                      |
 
 ## LLM Leaderboard
 
@@ -46,6 +47,14 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | DeepSpeed         | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | [Link](https://github.com/deepspeedai/DeepSpeed)          | ![GitHub Repo stars](https://img.shields.io/github/stars/deepspeedai/DeepSpeed?style=social)          |
 | torchtune         | A PyTorch-native library specifically designed for fine-tuning LLMs.                                                            | [Link](https://github.com/pytorch/torchtune)              | ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/torchtune?style=social)              |
 | PyTorch Lightning | A library that offers a high-level interface for pretraining and fine-tuning LLMs.                                              | [Link](https://github.com/Lightning-AI/pytorch-lightning) | ![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=social) |
+
+## LLM Scraping
+
+| Web Page   | Description                                                                                                                     | Link                                                            | Stars                                                                                                       |
+|------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Firecrawl  | Empower your AI apps with clean data from any website. Featuring advanced scraping, crawling, and data extraction capabilities. | [Link](https://github.com/mendableai/firecrawl)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social)                 |
+| SerpAPI    | crape and parse search results from Google, Bing, Baidu, Yandex, Yahoo, Home Depot, eBay and more                               | [Link](https://github.com/serpapi/google-search-results-python) | ![GitHub Repo stars](https://img.shields.io/github/stars/serpapi/google-search-results-python?style=social) |
+| BrightData | Api to scrape data                                                                                                              | [Link](https://brightdata.com/)                                 |                                                                                                             |
 
 # LLM Application Development
 
