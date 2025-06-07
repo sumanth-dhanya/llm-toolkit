@@ -17,7 +17,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | [🔍 LLM Monitoring](#llm-monitoring)                   | [📅 LLM Prompts](#llm-prompts)                                 | [📝 LLM Structured Outputs](#llm-structured-outputs) |
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [🔖 LLM Scraping](#llm-scraping)                     |
 | [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
-| [❇️ Others](#others)                                   |                                                                |                                                      |
+| [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                         |                                                      |
 
 ## LLM Leaderboard
 
@@ -55,6 +55,13 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | Firecrawl  | Empower your AI apps with clean data from any website. Featuring advanced scraping, crawling, and data extraction capabilities. | [Link](https://github.com/mendableai/firecrawl)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social)                 |
 | SerpAPI    | crape and parse search results from Google, Bing, Baidu, Yandex, Yahoo, Home Depot, eBay and more                               | [Link](https://github.com/serpapi/google-search-results-python) | ![GitHub Repo stars](https://img.shields.io/github/stars/serpapi/google-search-results-python?style=social) |
 | BrightData | Api to scrape data                                                                                                              | [Link](https://brightdata.com/)                                 |                                                                                                             |
+ 
+# LLM MCP
+
+| Library     | Description                              | Link                                              | GitHub Stars                                                                                  |
+|-------------|------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| awesome-mcp | Aesome collection of MCP servers . | [Link](https://github.com/punkpeye/awesome-mcp-servers) | ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social) |
+
 
 # LLM Application Development
 
