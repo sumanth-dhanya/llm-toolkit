@@ -23,8 +23,8 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 
 | Web Page      | Description                                                 | Link                                    |
 |---------------|-------------------------------------------------------------|-----------------------------------------|
-| Chatbor Arena | An open platform for crowdsourced AI benchmarking           | [Link](https://lmarena.ai/?leaderboard) |
-| SEAL          | Evals and differnt concept model on wide vareiety of tasks. | [Link](https://scale.com/leaderboard)   |
+| Chatbot Arena | An open platform for crowdsourced AI benchmarking           | [Link](https://lmarena.ai/?leaderboard) |
+| SEAL          | Evals and different concept model on wide variety of tasks. | [Link](https://scale.com/leaderboard)   |
 
 ## LLM Training and Fine-Tuning
 
@@ -141,6 +141,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | Vectara       | Build Agentic RAG applications.                                                                                                                                                                                                                                                                                     | [Link](https://vectara.github.io/py-vectara-agentic/latest/) |                                                                                                    |
 | Morphik       | Technical data extraction. Ex: What is the height of screw 14-A in the instructions?                                                                                                                                                                                                                                | [Link](https://github.com/morphik-org/morphik-core)          | ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)    |
 | Memvid        | Memvid compresses your knowledge base into compact video files while maintaining instant access to any piece of information.  Sub-seconds retrival                                                                                                                                                                  | [Link](https://github.com/Olow304/memvid)                    | ![GitHub Repo stars](https://img.shields.io/github/stars/Olow304/memvid?style=social)              |
+| Superlinked   | Building compute layer between data and vector storage. Add Metadata to the unstructured data. high-performance search & recommendation applications that combine structured and unstructured data,                                                                                                                 | [Link](https://github.com/superlinked/superlinked)                    | ![GitHub Repo stars](https://img.shields.io/github/stars/superlinked/superlinked?style=social)              |
 
 ## LLM Inference
 
@@ -319,6 +320,7 @@ Agent is a system that leverages AI model to interact with its environment in or
 | Paper2code  | PaperCoder is a multi-agent LLM system that transforms paper into a code repository. It follows a three-stage pipeline: planning, analysis, and code generation, each handled by specialized agents. | [Link](https://github.com/going-doer/Paper2Code) | ![GitHub Repo stars](https://img.shields.io/github/stars/going-doer/Paper2Code?style=social) |
 | Flora Fauna | Creative tool to make images into animation and other creative prototypes                                                                                                                            | [Link](https://www.florafauna.ai/)               | [Docs](https://floraai.gitbook.io/docs)                                                      |
 | Story Doc   | Easily create stunning, interactive slide decks that increase engagement. Cool pitch or slide making.                                                                                                | [Link](https://www.storydoc.com/)                |                                                                                              |
+| Superblocks | SAAS app builder .competitor with reflex-build                                                                                                                                                       | [Link](https://www.superblocks.com/)             |                                                                                              |
 | Superblocks | SAAS app builder .competitor with reflex-build                                                                                                                                                       | [Link](https://www.superblocks.com/)             |                                                                                              |
 
 ## ⭐️
