@@ -58,9 +58,10 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 
 # LLM MCP
 
-| Library     | Description                        | Link                                                    | GitHub Stars                                                                                        |
-|-------------|------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| awesome-mcp | Aesome collection of MCP servers . | [Link](https://github.com/punkpeye/awesome-mcp-servers) | ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social) |
+| Library        | Description                                        | Link                                                    | GitHub Stars                                                                                        |
+|----------------|----------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| awesome-mcp    | Awesome collection of MCP servers .                | [Link](https://github.com/punkpeye/awesome-mcp-servers) | ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social) |
+| mcp-containers | Containerized versions of hundereds of MCP Servers | [Link](https://github.com/metorial/mcp-containers) | ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/mcp-containers?style=social) |
 
 # LLM Application Development
 
@@ -141,7 +142,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | Vectara       | Build Agentic RAG applications.                                                                                                                                                                                                                                                                                     | [Link](https://vectara.github.io/py-vectara-agentic/latest/) |                                                                                                    |
 | Morphik       | Technical data extraction. Ex: What is the height of screw 14-A in the instructions?                                                                                                                                                                                                                                | [Link](https://github.com/morphik-org/morphik-core)          | ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)    |
 | Memvid        | Memvid compresses your knowledge base into compact video files while maintaining instant access to any piece of information.  Sub-seconds retrival                                                                                                                                                                  | [Link](https://github.com/Olow304/memvid)                    | ![GitHub Repo stars](https://img.shields.io/github/stars/Olow304/memvid?style=social)              |
-| Superlinked   | Building compute layer between data and vector storage. Add Metadata to the unstructured data. high-performance search & recommendation applications that combine structured and unstructured data,                                                                                                                 | [Link](https://github.com/superlinked/superlinked)                    | ![GitHub Repo stars](https://img.shields.io/github/stars/superlinked/superlinked?style=social)              |
+| Superlinked   | Building compute layer between data and vector storage. Add Metadata to the unstructured data. high-performance search & recommendation applications that combine structured and unstructured data,                                                                                                                 | [Link](https://github.com/superlinked/superlinked)           | ![GitHub Repo stars](https://img.shields.io/github/stars/superlinked/superlinked?style=social)     |
 
 ## LLM Inference
 
