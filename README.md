@@ -16,15 +16,16 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | [🌠 LLM Data Generation](#llm-data-generation)         | [💎 LLM Agents](#llm-agents)                                   | [⚖️ LLM Evaluation](#llm-evaluation)                 | 
 | [🔍 LLM Monitoring](#llm-monitoring)                   | [📅 LLM Prompts](#llm-prompts)                                 | [📝 LLM Structured Outputs](#llm-structured-outputs) |
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [🔖 LLM Scraping](#llm-scraping)                     |
-| [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
-| [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                         |                                                      |
+| [ 🏁 LLM Benchmarks](#llm-benchmarks)                  | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
+| [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                         | [⚖️ LLM Evaluation Harness](#llm-evaluation-harness) |
 
-## LLM Leaderboard
+## LLM Benchmarks
 
-| Web Page      | Description                                                 | Link                                    |
-|---------------|-------------------------------------------------------------|-----------------------------------------|
-| Chatbot Arena | An open platform for crowdsourced AI benchmarking           | [Link](https://lmarena.ai/?leaderboard) |
-| SEAL          | Evals and different concept model on wide variety of tasks. | [Link](https://scale.com/leaderboard)   |
+| Web Page      | Description                                                                                                                                            | Link                                    |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Chatbot Arena | An open platform for crowdsourced AI benchmarking                                                                                                      | [Link](https://lmarena.ai/?leaderboard) |
+| SEAL          | Evals and different concept model on wide variety of tasks.                                                                                            | [Link](https://scale.com/leaderboard)   |
+| Open Router   | shows the top open source models on their platform, ranked by their usage (token volume). This can help you evaluate open source models by popularity. | [Link](https://openrouter.ai/rankings)  |
 
 ## LLM Training and Fine-Tuning
 
@@ -61,7 +62,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | Library        | Description                                        | Link                                                    | GitHub Stars                                                                                        |
 |----------------|----------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | awesome-mcp    | Awesome collection of MCP servers .                | [Link](https://github.com/punkpeye/awesome-mcp-servers) | ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social) |
-| mcp-containers | Containerized versions of hundereds of MCP Servers | [Link](https://github.com/metorial/mcp-containers) | ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/mcp-containers?style=social) |
+| mcp-containers | Containerized versions of hundereds of MCP Servers | [Link](https://github.com/metorial/mcp-containers)      | ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/mcp-containers?style=social)      |
 
 # LLM Application Development
 
@@ -225,6 +226,7 @@ Agent is a system that leverages AI model to interact with its environment in or
 | Ragas       | Ragas is your ultimate toolkit for evaluating and optimizing Large Language Model (LLM) applications.                                                                                             | [Link](https://github.com/explodinggradients/ragas) | ![GitHub Repo stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social) |
 | Giskard     | Open-Source Evaluation & Testing for ML & LLM systems.                                                                                                                                            | [Link](https://github.com/Giskard-AI/giskard)       | ![GitHub Repo stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social)       |
 | DeepEval    | LLM Evaluation Framework                                                                                                                                                                          | [Link](https://github.com/confident-ai/deepeval)    | ![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social)    |
+| G-BigBench  | Evaluate the performance on more than 200 tasks included in BIG-bench are                                                                                                                         | [Link](https://github.com/google/BIG-bench)         | ![GitHub Repo stars](https://img.shields.io/github/stars/google/BIG-bench?style=social)         |
 | Lighteval   | All-in-one toolkit for evaluating LLMs.                                                                                                                                                           | [Link](https://github.com/huggingface/lighteval)    | ![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social)    |
 | Trulens     | Evaluation and Tracking for LLM Experiments                                                                                                                                                       | [Link](https://github.com/truera/trulens)           | ![GitHub Repo stars](https://img.shields.io/github/stars/truera/trulens?style=social)           |
 | PromptBench | A unified evaluation framework for large language models.                                                                                                                                         | [Link](https://github.com/microsoft/promptbench)    | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/promptbench?style=social)    |
@@ -239,6 +241,15 @@ Agent is a system that leverages AI model to interact with its environment in or
 | Camel-ai    | Simulate up to 1M agents to study emergent behaviors and scaling laws in complex, multi-agent environments.                                                                                       | [Link](https://github.com/camel-ai/camel)           | ![GitHub Repo stars](https://img.shields.io/github/stars/camel-ai/camel?style=social)           |
 | Evidently   | An open-source framework to evaluate, test and monitor ML and LLM-powered systems.                                                                                                                | [Link](https://github.com/evidentlyai/evidently)    | ![GitHub Repo stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social)    |
 | NammyML     | Non LLM . Allows you to estimate post-deployment model performance (without access to targets), detect data drift, and intelligently link data drift alerts back to changes in model performance. | [Link](https://github.com/NannyML/nannyml)          | ![GitHub Repo stars](https://img.shields.io/github/stars/NannyML/nannyml?style=social)          |
+
+## LLM Evaluation Harness
+
+A tool that helps you evaluate on multiple benchmarks is an evaluation harness
+
+| Library      | Description                                                                                                                                                                            | Link                                                        | GitHub Stars                                                                                            |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| ElutherAI    | Support over 400 benchmarks                                                                                                                                                            | [Link](https://github.com/EleutherAI/lm-evaluation-harness) | ![GitHub Repo stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social) |
+| Openai-evals | Run any of the aproximately 500 existing benchmarks and also register a new benchmark to evaluate OpenAI models. Benchmark evaluates on math, problem solving, puzzles, Identify ASCII | [Link](https://github.com/openai/evals)                     | ![GitHub Repo stars](https://img.shields.io/github/stars/openai/evals?style=social)                     |
 
 ## LLM Monitoring
 
