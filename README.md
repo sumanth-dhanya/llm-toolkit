@@ -335,7 +335,6 @@ A tool that helps you evaluate on multiple benchmarks is an evaluation harness
 | Flora Fauna | Creative tool to make images into animation and other creative prototypes                                                                                                                            | [Link](https://www.florafauna.ai/)               | [Docs](https://floraai.gitbook.io/docs)                                                      |
 | Story Doc   | Easily create stunning, interactive slide decks that increase engagement. Cool pitch or slide making.                                                                                                | [Link](https://www.storydoc.com/)                |                                                                                              |
 | Superblocks | SAAS app builder .competitor with reflex-build                                                                                                                                                       | [Link](https://www.superblocks.com/)             |                                                                                              |
-| Superblocks | SAAS app builder .competitor with reflex-build                                                                                                                                                       | [Link](https://www.superblocks.com/)             |                                                                                              |
 
 ## ⭐️
 
