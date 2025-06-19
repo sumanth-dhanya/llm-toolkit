@@ -16,16 +16,17 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | [🌠 LLM Data Generation](#llm-data-generation)         | [💎 LLM Agents](#llm-agents)                                   | [⚖️ LLM Evaluation](#llm-evaluation)                 | 
 | [🔍 LLM Monitoring](#llm-monitoring)                   | [📅 LLM Prompts](#llm-prompts)                                 | [📝 LLM Structured Outputs](#llm-structured-outputs) |
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [🔖 LLM Scraping](#llm-scraping)                     |
-| [ 🏁 LLM Benchmarks](#llm-benchmarks)                  | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
+| [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
 | [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                         | [⚖️ LLM Evaluation Harness](#llm-evaluation-harness) |
 
-## LLM Benchmarks
+## LLM Leaderboard
 
-| Web Page      | Description                                                                                                                                            | Link                                    |
-|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Chatbot Arena | An open platform for crowdsourced AI benchmarking                                                                                                      | [Link](https://lmarena.ai/?leaderboard) |
-| SEAL          | Evals and different concept model on wide variety of tasks.                                                                                            | [Link](https://scale.com/leaderboard)   |
-| Open Router   | shows the top open source models on their platform, ranked by their usage (token volume). This can help you evaluate open source models by popularity. | [Link](https://openrouter.ai/rankings)  |
+| Web Page                | Description                                                                                                                                            | Link                                                                              |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Chatbot Arena           | An open platform for crowdsourced AI benchmarking                                                                                                      | [Link](https://lmarena.ai/?leaderboard)                                           |
+| SEAL                    | Evals and different concept model on wide variety of tasks.                                                                                            | [Link](https://scale.com/leaderboard)                                             |
+| Open Router             | shows the top open source models on their platform, ranked by their usage (token volume). This can help you evaluate open source models by popularity. | [Link](https://openrouter.ai/rankings)                                            |
+| HF-Open-llm-leaderboard | Open source model performance view                                                                                                                     | [Link](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) |
 
 ## LLM Training and Fine-Tuning
 
@@ -241,6 +242,7 @@ Agent is a system that leverages AI model to interact with its environment in or
 | Camel-ai    | Simulate up to 1M agents to study emergent behaviors and scaling laws in complex, multi-agent environments.                                                                                       | [Link](https://github.com/camel-ai/camel)           | ![GitHub Repo stars](https://img.shields.io/github/stars/camel-ai/camel?style=social)           |
 | Evidently   | An open-source framework to evaluate, test and monitor ML and LLM-powered systems.                                                                                                                | [Link](https://github.com/evidentlyai/evidently)    | ![GitHub Repo stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social)    |
 | NammyML     | Non LLM . Allows you to estimate post-deployment model performance (without access to targets), detect data drift, and intelligently link data drift alerts back to changes in model performance. | [Link](https://github.com/NannyML/nannyml)          | ![GitHub Repo stars](https://img.shields.io/github/stars/NannyML/nannyml?style=social)          |
+| HELM        | Holistic Evaluation of Language Models (HELM) . Metrics for measuring various aspects beyond accuracy (e.g. efficiency, bias, toxicity)                                                           | [Link](https://github.com/stanford-crfm/helm)       | ![GitHub Repo stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social)       |
 
 ## LLM Evaluation Harness
 
