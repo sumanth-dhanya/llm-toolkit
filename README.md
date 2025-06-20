@@ -60,10 +60,11 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 
 # LLM MCP
 
-| Library        | Description                                        | Link                                                    | GitHub Stars                                                                                        |
-|----------------|----------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| awesome-mcp    | Awesome collection of MCP servers .                | [Link](https://github.com/punkpeye/awesome-mcp-servers) | ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social) |
-| mcp-containers | Containerized versions of hundereds of MCP Servers | [Link](https://github.com/metorial/mcp-containers)      | ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/mcp-containers?style=social)      |
+| Library        | Description                                                                                                 | Link                                                       | GitHub Stars                                                                                           |
+|----------------|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| awesome-mcp    | Awesome collection of MCP servers .                                                                         | [Link](https://github.com/punkpeye/awesome-mcp-servers)    | ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social)    |
+| mcp-containers | Containerized versions of hundreds of MCP Servers                                                          | [Link](https://github.com/metorial/mcp-containers)         | ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/mcp-containers?style=social)         |
+| TaskMaster     | A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI. | [Link](https://github.com/eyaltoledano/claude-task-master) | ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master?style=social) |
 
 # LLM Application Development
 
