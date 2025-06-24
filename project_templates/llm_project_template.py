@@ -75,5 +75,5 @@ def create_structure(base_path, structure):
             open(os.path.join(base_path, key), 'a').close()
 
 # Run the script to create the directory structure
-create_structure(".", project_structure)
+create_structure("..", project_structure)
 print("Project structure created successfully.")
