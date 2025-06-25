@@ -1,8 +1,8 @@
 # 👨🏻‍💻 LLM Engineer Toolkit
 
-This repository contains a curated list of 120+ LLM libraries category wise.
+This repository contains a curated list of 180+ LLM libraries category wise.
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumanth-dhanya-8790a180/">
+  <a href="https://www.linkedin.com/in/sumanth-dhanya/">
     <img src="https://custom-icon-badges.demolab.com/badge/Sumanth%20Dhanya-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 </p>
