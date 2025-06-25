@@ -18,6 +18,7 @@ This repository contains a curated list of 180+ LLM libraries category wise.
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [🔖 LLM Scraping](#llm-scraping)                     |
 | [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
 | [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                         | [⚖️ LLM Evaluation Harness](#llm-evaluation-harness) |
+| [📖 LLM Learning](#llm-learning)                       |                                                                |                                                      |
 
 ## LLM Leaderboard
 
@@ -147,6 +148,7 @@ This repository contains a curated list of 180+ LLM libraries category wise.
 | Morphik       | Technical data extraction. Ex: What is the height of screw 14-A in the instructions?                                                                                                                                                                                                                                | [Link](https://github.com/morphik-org/morphik-core)          | ![GitHub Repo stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=social)    |
 | Memvid        | Memvid compresses your knowledge base into compact video files while maintaining instant access to any piece of information.  Sub-seconds retrival                                                                                                                                                                  | [Link](https://github.com/Olow304/memvid)                    | ![GitHub Repo stars](https://img.shields.io/github/stars/Olow304/memvid?style=social)              |
 | Superlinked   | Building compute layer between data and vector storage. Add Metadata to the unstructured data. high-performance search & recommendation applications that combine structured and unstructured data,                                                                                                                 | [Link](https://github.com/superlinked/superlinked)           | ![GitHub Repo stars](https://img.shields.io/github/stars/superlinked/superlinked?style=social)     |
+| ragflow       | Extraction from unstructured data with complicated formats.  Visualization of text chunking to allow human intervention.                                                                                                                                                                                            | [Link](https://github.com/infiniflow/ragflow)                | ![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social)          |
 
 ## LLM Inference
 
@@ -362,6 +364,12 @@ safely
 | Flora Fauna | Creative tool to make images into animation and other creative prototypes                                                                                                                            | [Link](https://www.florafauna.ai/)               | [Docs](https://floraai.gitbook.io/docs)                                                      |
 | Story Doc   | Easily create stunning, interactive slide decks that increase engagement. Cool pitch or slide making.                                                                                                | [Link](https://www.storydoc.com/)                |                                                                                              |
 | Superblocks | SAAS app builder .competitor with reflex-build                                                                                                                                                       | [Link](https://www.superblocks.com/)             |                                                                                              |
+
+## LLM Learning
+
+| Library                        | Description                                                                 | Link                                                                 | Stars                                                                                                            |
+|--------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Hands-On-Large-Language-Models | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" | [Link](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | ![GitHub Repo stars](https://img.shields.io/github/stars/HandsOnLLM/Hands-On-Large-Language-Models?style=social) |
 
 ## ⭐️
 
