@@ -402,6 +402,7 @@ I enjoy reading good technical blogs. Here are some of my frequent go-to enginee
 9. [Data Science and ML | Databricks Blog](https://www.databricks.com/blog/category/engineering/data-science-machine-learning)
 10. [Together Blog](https://www.together.ai/blog)
 11. [Duolingo Engineering](https://blog.duolingo.com/hub/engineering/)
+12. [ML Technique](https://mltechniques.com/resources/?scr=airesearch)
 
 # llm-toolkit
 
