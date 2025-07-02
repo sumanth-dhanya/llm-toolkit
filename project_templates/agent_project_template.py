@@ -1,4 +1,5 @@
 import os
+import argparse
 
 # Directory structure
 project_structure = {
@@ -80,6 +81,22 @@ def create_structure(base_path, structure):
                     f.write(f"# {file}")
 
 
+def main():
+    parser = argparse.ArgumentParser(description='Create an agent project template')
+    parser.add_argument('project_name',
+                        help='Name of the project to create')
+    parser.add_argument('--base-path', '-p',
+                        default='.',
+                        help='Base path where the project should be created (default: current directory)')
+
+    args = parser.parse_args()
+
+    # Update the project structure with the provided project name
+    updated_structure = {args.project_name: project_structure["agent-project"]}
+
+    create_structure(args.base_path, updated_structure)
+    print(f"✅ Agent project template '{args.project_name}' created successfully.")
+
+
 if __name__ == "__main__":
-    create_structure("..", project_structure)
-    print("✅ Agent project template created.")
+    main()
