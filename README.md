@@ -18,7 +18,7 @@ This repository contains a curated list of 180+ LLM libraries category wise.
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [🔖 LLM Scraping](#llm-scraping)                     |
 | [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
 | [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                         | [⚖️ LLM Evaluation Harness](#llm-evaluation-harness) |
-| [📖 LLM Learning](#llm-learning)                       |                                                                |                                                      |
+| [📖 LLM Learning](#llm-learning)                       | [🏞️ Image Tools](#image-tools)                                |                                                      |
 
 ## LLM Leaderboard
 
@@ -185,7 +185,7 @@ Note: ToDo: An absraction layer such as tool gateway, can also be useful for acc
 | Crawl4AI       | Open-source LLM Friendly Web Crawler & Scraper.                                                                                                                     | [Link](https://github.com/unclecode/crawl4ai)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)             |
 | ScrapeGraphAI  | A web scraping Python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, Markdown, etc.). | [Link](https://github.com/ScrapeGraphAI/Scrapegraph-ai)       | ![GitHub Repo stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social)   |
 | Docling        | Docling parses documents and exports them to the desired format with ease and speed.                                                                                | [Link](https://github.com/DS4SD/docling)                      | ![GitHub Repo stars](https://img.shields.io/github/stars/DS4SD/docling?style=social)                  |
-| Dolphin        | Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting                                                                                | [Link](https://github.com/bytedance/Dolphin)                      | ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/Dolphin?style=social)                  |
+| Dolphin        | Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting                                                                                                  | [Link](https://github.com/bytedance/Dolphin)                  | ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/Dolphin?style=social)              |
 | Llama Parse    | GenAI-native document parser that can parse complex document data for any downstream LLM use case (RAG, agents).                                                    | [Link](https://github.com/run-llama/llama_cloud_services)     | ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_cloud_services?style=social) |
 | Crawlee        | A web scraping and browser automation library.                                                                                                                      | [Link](https://github.com/apify/crawlee-python)               | ![GitHub Repo stars](https://img.shields.io/github/stars/apify/crawlee-python?style=social)           |
 | MegaParse      | Parser for every type of document.                                                                                                                                  | [Link](https://github.com/quivrhq/megaparse)                  | ![GitHub Repo stars](https://img.shields.io/github/stars/quivrhq/megaparse?style=social)              |
@@ -389,6 +389,13 @@ safely
 | Library                        | Description                                                                 | Link                                                                 | Stars                                                                                                            |
 |--------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Hands-On-Large-Language-Models | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" | [Link](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | ![GitHub Repo stars](https://img.shields.io/github/stars/HandsOnLLM/Hands-On-Large-Language-Models?style=social) |
+
+## Image Tools
+
+| Library   | Description                                                                       | Link                                                   | Stars                                                                                              |
+|-----------|-----------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Hunyuan3D | High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models. | [Link](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) | ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social) |
+| Supervision | reusable computer vision tools.                                                   | [Link](https://github.com/roboflow/supervision)        | ![GitHub Repo stars](https://img.shields.io/github/stars/roboflow/supervision?style=social)        |
 
 ## Organization engineering blogs
 
