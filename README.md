@@ -196,6 +196,7 @@ Note: ToDo: An absraction layer such as tool gateway, can also be useful for acc
 | PyMuPDF4LLM    | PyMuPDF4LLM library makes it easier to extract PDF content in the format you need for LLM & RAG environments.                                                       | [Link](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/) |                                                                                                       |
 | dots.ocr       | Single Vision-Language model. dots.ocr achieves SOTA performance for text, tables, and reading order. A compact 1.7B LLM                                            | [Link](https://github.com/rednote-hilab/dots.ocr)             | ![GitHub Repo stars](https://img.shields.io/github/stars/rednote-hilab/dots.ocr?style=social)         |
 | tensorlake     | Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs                                                | [Link](https://github.com/tensorlakeai/tensorlake)            | ![GitHub Repo stars](https://img.shields.io/github/stars/tensorlakeai/tensorlake?style=social)        |
+| langextract    | Optimized for long documents, Structured data extraction                                                                                                            | [Link](https://github.com/google/langextract)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/google/langextract?style=social)             |
 
 ## LLM Data Generation
 
