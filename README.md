@@ -195,6 +195,7 @@ Note: ToDo: An absraction layer such as tool gateway, can also be useful for acc
 | ExtractThinker | Document Intelligence library for LLMs.                                                                                                                             | [Link](https://github.com/enoch3712/ExtractThinker)           | ![GitHub Repo stars](https://img.shields.io/github/stars/enoch3712/ExtractThinker?style=social)       |
 | PyMuPDF4LLM    | PyMuPDF4LLM library makes it easier to extract PDF content in the format you need for LLM & RAG environments.                                                       | [Link](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/) |                                                                                                       |
 | dots.ocr       | Single Vision-Language model. dots.ocr achieves SOTA performance for text, tables, and reading order. A compact 1.7B LLM                                            | [Link](https://github.com/rednote-hilab/dots.ocr)             | ![GitHub Repo stars](https://img.shields.io/github/stars/rednote-hilab/dots.ocr?style=social)         |
+| tensorlake     | Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs                                                | [Link](https://github.com/tensorlakeai/tensorlake)            | ![GitHub Repo stars](https://img.shields.io/github/stars/tensorlakeai/tensorlake?style=social)        |
 
 ## LLM Data Generation
 
@@ -403,6 +404,7 @@ safely
 |-------------|-----------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Hunyuan3D   | High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models. | [Link](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) | ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social) |
 | Supervision | reusable computer vision tools.                                                   | [Link](https://github.com/roboflow/supervision)        | ![GitHub Repo stars](https://img.shields.io/github/stars/roboflow/supervision?style=social)        |
+| PartCrater  | Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers     | [Link](https://github.com/wgsxm/PartCrafter)           | ![GitHub Repo stars](https://img.shields.io/github/stars/wgsxm/PartCrafter?style=social)           |
 
 ## Organization engineering blogs
 
