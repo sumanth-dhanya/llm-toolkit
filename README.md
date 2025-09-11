@@ -409,6 +409,7 @@ safely
 | Superblocks | SAAS app builder .competitor with reflex-build                                                                                                                                                       | [Link](https://www.superblocks.com/)                        |                                                                                              |
 | OpenSearch  | OpenSearch is a distributed search and analytics engine based on Apache Lucene.                                                                                                                      | [Link](https://docs.opensearch.org/latest/getting-started/) |                                                                                              |
 | Milvus      | A high performance and scalable vector database for ANN search                                                                                                                                       | [Link](https://github.com/milvus-io/milvus)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)      |
+| Rasa        | Open source machine learning framework to automate text- and voice-based conversations                                                                                                               | [Link](https://github.com/RasaHQ/rasa)                      | ![GitHub Repo stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social)           |
 
 ## LLM Learning
 
@@ -440,6 +441,13 @@ I enjoy reading good technical blogs. Here are some of my frequent go-to enginee
 10. [Together Blog](https://www.together.ai/blog)
 11. [Duolingo Engineering](https://blog.duolingo.com/hub/engineering/)
 12. [ML Technique](https://mltechniques.com/resources/?scr=airesearch)
+13. [Nvidia Research lab](https://research.nvidia.com/research-labs)
+14. [Karpathy's blog](https://karpathy.ai/)
+15. [The G AI Blog](https://deepmind.google/discover/blog)
+16. [Pytorch Sebastian](https://sebastianraschka.com/blog)
+17. [Lilian Weng](https://lilianweng.github.io/)
+18. [Hammel for MLOps](https://hamel.dev/)
+19. [ai by hand - Tom Yeh](https://www.byhand.ai/)
 
 # llm-toolkit
 
