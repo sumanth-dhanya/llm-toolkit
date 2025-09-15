@@ -76,6 +76,7 @@ This repository contains a curated list of 180+ LLM libraries category wise.
 | awesome-mcp    | Awesome collection of MCP servers .                                                                         | [Link](https://github.com/punkpeye/awesome-mcp-servers)    | ![GitHub Repo stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=social)    |
 | mcp-containers | Containerized versions of hundreds of MCP Servers                                                           | [Link](https://github.com/metorial/mcp-containers)         | ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/mcp-containers?style=social)         |
 | TaskMaster     | A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI. | [Link](https://github.com/eyaltoledano/claude-task-master) | ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master?style=social) |
+| DeepMCPAgent   | Model-agnostic plug-n-play LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.          | [Link](https://github.com/cryxnet/deepmcpagent)            | ![GitHub Repo stars](https://img.shields.io/github/stars/cryxnet/deepmcpagent?style=social)            |
 
 # LLM Application Development
 
@@ -409,6 +410,8 @@ safely
 | Superblocks | SAAS app builder .competitor with reflex-build                                                                                                                                                       | [Link](https://www.superblocks.com/)                        |                                                                                              |
 | OpenSearch  | OpenSearch is a distributed search and analytics engine based on Apache Lucene.                                                                                                                      | [Link](https://docs.opensearch.org/latest/getting-started/) |                                                                                              |
 | Milvus      | A high performance and scalable vector database for ANN search                                                                                                                                       | [Link](https://github.com/milvus-io/milvus)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)      |
+| LEANN       | Vector database, lightweight and less memory usage. Chat with your browser history. Perfect for local files.                                                                                         | [Link](https://github.com/yichuan-w/LEANN)                  | ![GitHub Repo stars](https://img.shields.io/github/stars/yichuan-w/LEANN?style=social)       |
+| Rasa        | Open source machine learning framework to automate text- and voice-based conversations                                                                                                               | [Link](https://github.com/RasaHQ/rasa)                      | ![GitHub Repo stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social)           |
 
 ## LLM Learning
 
@@ -440,6 +443,13 @@ I enjoy reading good technical blogs. Here are some of my frequent go-to enginee
 10. [Together Blog](https://www.together.ai/blog)
 11. [Duolingo Engineering](https://blog.duolingo.com/hub/engineering/)
 12. [ML Technique](https://mltechniques.com/resources/?scr=airesearch)
+13. [Nvidia Research lab](https://research.nvidia.com/research-labs)
+14. [Karpathy's blog](https://karpathy.ai/)
+15. [The G AI Blog](https://deepmind.google/discover/blog)
+16. [Pytorch Sebastian](https://sebastianraschka.com/blog)
+17. [Lilian Weng](https://lilianweng.github.io/)
+18. [Hammel for MLOps](https://hamel.dev/)
+19. [ai by hand - Tom Yeh](https://www.byhand.ai/)
 
 # llm-toolkit
 
