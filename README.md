@@ -257,6 +257,7 @@ To evaluate an agent, identiy its failure modes and measure how often each of th
 | Camel-owl     | 🦉 OWL is a cutting-edge framework for multi-agent collaboration that pushes the boundaries of task automation, built on top of the [CAMEL-AI](https://github.com/camel-ai/camel) Framework. | [Link](https://github.com/camel-ai/owl)                | ![GitHub Repo stars](https://img.shields.io/github/stars/camel-ai/owl?style=social)                |
 | langmem       | Memory management tool, to extract important information from conversations,also maintain long term memory.                                                                                  | [Link](https://github.com/langchain-ai/langmem)        | ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social)        |
 | Parlant       | Parlant gives you all the structure you need to build customer-facing agents that behave exactly as your business requires                                                                   | [Link](https://github.com/emcie-co/parlant)            | ![GitHub Repo stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social)            |
+| AgentScope    | Designed for multi-agent, explicit message passing and workflow orchestration, NO deep encapsulation.                                                                                        | [Link](https://github.com/agentscope-ai/agentscope)    | ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)    |
 
 ## LLM Evaluation
 
