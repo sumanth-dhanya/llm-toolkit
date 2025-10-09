@@ -414,6 +414,7 @@ safely
 | Milvus      | A high performance and scalable vector database for ANN search                                                                                                                                       | [Link](https://github.com/milvus-io/milvus)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social)      |
 | LEANN       | Vector database, lightweight and less memory usage. Chat with your browser history. Perfect for local files.                                                                                         | [Link](https://github.com/yichuan-w/LEANN)                  | ![GitHub Repo stars](https://img.shields.io/github/stars/yichuan-w/LEANN?style=social)       |
 | Rasa        | Open source machine learning framework to automate text- and voice-based conversations                                                                                                               | [Link](https://github.com/RasaHQ/rasa)                      | ![GitHub Repo stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social)           |
+| typesense   | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences | [Link](https://github.com/typesense/typesense)              | ![GitHub Repo stars](https://img.shields.io/github/stars/typesense/typesense?style=social)   |
 
 ## LLM Learning
 
