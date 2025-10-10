@@ -1,6 +1,6 @@
 # 👨🏻‍💻 LLM Engineer Toolkit
 
-This repository contains a curated list of 224+ LLM libraries category wise.
+This repository contains a curated list of 226+ LLM libraries category wise.
 <p align="center">
   <a href="https://www.linkedin.com/in/sumanth-dhanya/">
     <img src="https://custom-icon-badges.demolab.com/badge/Sumanth%20Dhanya-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
@@ -401,6 +401,7 @@ safely
 | DDODS-ai-agents        | tutorials on LLMs, RAGs and real-world AI agent applications                                                                                                                                                       | [Link](https://github.com/patchy631/ai-engineering-hub)                     | ![GitHub Repo stars](https://img.shields.io/github/stars/patchy631/ai-engineering-hub?style=social)                     |
 | G-adk-samples          | A collection of sample agents built with Agent Development Kit                                                                                                                                                     | [Link](https://github.com/google/adk-samples)                               | ![GitHub Repo stars](https://img.shields.io/github/stars/google/adk-samples?style=social)                               |
 | open-llms              | list of open LLM's                                                                                                                                                                                                 | [Link](https://github.com/eugeneyan/open-llms)                              | ![GitHub Repo stars](https://img.shields.io/github/stars/eugeneyan/open-llms?style=social)                              |
+| openmed                | toolkit for working with the OpenMed collection of healthcare-focused named-entity recognition (NER)                                                                                                               | [Link](https://github.com/maziyarpanahi/openmed)                            | ![GitHub Repo stars](https://img.shields.io/github/stars/maziyarpanahi/openmed?style=social)                            |
 
 ## LLM tools
 
