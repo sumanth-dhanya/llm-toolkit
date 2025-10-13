@@ -422,6 +422,7 @@ safely
 | Library                        | Description                                                                 | Link                                                                 | Stars                                                                                                            |
 |--------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Hands-On-Large-Language-Models | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" | [Link](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | ![GitHub Repo stars](https://img.shields.io/github/stars/HandsOnLLM/Hands-On-Large-Language-Models?style=social) |
+| Context-Engineering-template   | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" | [Link](https://github.com/coleam00/context-engineering-intro)        | ![GitHub Repo stars](https://img.shields.io/github/stars/coleam00/context-engineering-intro?style=social)        |
 
 ## Image Tools
 
