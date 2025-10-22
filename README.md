@@ -427,11 +427,12 @@ safely
 
 ## Image Tools
 
-| Library     | Description                                                                       | Link                                                   | Stars                                                                                              |
-|-------------|-----------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Hunyuan3D   | High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models. | [Link](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) | ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social) |
-| Supervision | reusable computer vision tools.                                                   | [Link](https://github.com/roboflow/supervision)        | ![GitHub Repo stars](https://img.shields.io/github/stars/roboflow/supervision?style=social)        |
-| PartCrater  | Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers     | [Link](https://github.com/wgsxm/PartCrafter)           | ![GitHub Repo stars](https://img.shields.io/github/stars/wgsxm/PartCrafter?style=social)           |
+| Library      | Description                                                                                                                   | Link                                                   | Stars                                                                                              |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Hunyuan3D    | High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.                                             | [Link](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) | ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social) |
+| Supervision  | reusable computer vision tools.                                                                                               | [Link](https://github.com/roboflow/supervision)        | ![GitHub Repo stars](https://img.shields.io/github/stars/roboflow/supervision?style=social)        |
+| PartCrater   | Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers                                                 | [Link](https://github.com/wgsxm/PartCrafter)           | ![GitHub Repo stars](https://img.shields.io/github/stars/wgsxm/PartCrafter?style=social)           |
+| Deepseek-OCR | Contexts Optical Compression : Instead of storing every word as token, take picture of text and compress it into vision token | [Link](https://github.com/deepseek-ai/DeepSeek-OCR)    | ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR?style=social)    |
 
 ## Organization engineering blogs
 
