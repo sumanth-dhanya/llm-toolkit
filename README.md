@@ -1,6 +1,6 @@
 # 👨🏻‍💻 LLM Engineer Toolkit
 
-This repository contains a curated list of 231+ LLM libraries category wise.
+This repository contains a curated list of 233+ LLM libraries category wise.
 <p align="center">
   <a href="https://www.linkedin.com/in/sumanth-dhanya/">
     <img src="https://custom-icon-badges.demolab.com/badge/Sumanth%20Dhanya-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
@@ -437,6 +437,7 @@ safely
 | Supervision  | reusable computer vision tools.                                                                                               | [Link](https://github.com/roboflow/supervision)        | ![GitHub Repo stars](https://img.shields.io/github/stars/roboflow/supervision?style=social)        |
 | PartCrater   | Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers                                                 | [Link](https://github.com/wgsxm/PartCrafter)           | ![GitHub Repo stars](https://img.shields.io/github/stars/wgsxm/PartCrafter?style=social)           |
 | Deepseek-OCR | Contexts Optical Compression : Instead of storing every word as token, take picture of text and compress it into vision token | [Link](https://github.com/deepseek-ai/DeepSeek-OCR)    | ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR?style=social)    |
+| olmocr-2     | A toolkit for converting PDF and other images-based document formats into clean, readable plain text format                   | [Link](https://github.com/allenai/olmocr)              | ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)              |
 
 ## Organization engineering blogs
 
