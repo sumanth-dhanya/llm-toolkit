@@ -18,7 +18,7 @@ This repository contains a curated list of 233+ LLM libraries category wise.
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [🔖 LLM Scraping](#llm-scraping)                     |
 | [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
 | [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                         | [⚖️ LLM Evaluation Harness](#llm-evaluation-harness) |
-| [📖 LLM Learning](#llm-learning)                       | [🏞️ Image Tools](#image-tools)                                |                                                      |
+| [📖 LLM Learning](#llm-learning)                       | [🏞️ Image Tools](#image-tools)                                | [📱 LLM Mobile](#llm-mobile)                         |
 
 ## LLM Leaderboard
 
@@ -438,6 +438,12 @@ safely
 | PartCrater   | Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers                                                 | [Link](https://github.com/wgsxm/PartCrafter)           | ![GitHub Repo stars](https://img.shields.io/github/stars/wgsxm/PartCrafter?style=social)           |
 | Deepseek-OCR | Contexts Optical Compression : Instead of storing every word as token, take picture of text and compress it into vision token | [Link](https://github.com/deepseek-ai/DeepSeek-OCR)    | ![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR?style=social)    |
 | olmocr-2     | A toolkit for converting PDF and other images-based document formats into clean, readable plain text format                   | [Link](https://github.com/allenai/olmocr)              | ![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr?style=social)              |
+
+## LLM Mobile
+
+| Library   | Description                                                                                                     | Link                                         | Stars                                                                                   |
+|-----------|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------------|
+| MiniCPM-V | MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone | [Link](https://github.com/OpenBMB/MiniCPM-V) | ![GitHub Repo stars](https://img.shields.io/github/stars/penBMB/MiniCPM-V?style=social) |
 
 ## Organization engineering blogs
 
