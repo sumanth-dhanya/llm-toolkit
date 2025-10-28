@@ -1,6 +1,6 @@
 # 👨🏻‍💻 LLM Engineer Toolkit
 
-This repository contains a curated list of 233+ LLM libraries category wise.
+This repository contains a curated list of 234+ LLM libraries category wise.
 <p align="center">
   <a href="https://www.linkedin.com/in/sumanth-dhanya/">
     <img src="https://custom-icon-badges.demolab.com/badge/Sumanth%20Dhanya-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
@@ -258,6 +258,7 @@ To evaluate an agent, identiy its failure modes and measure how often each of th
 | Parlant       | Parlant gives you all the structure you need to build customer-facing agents that behave exactly as your business requires                                                                                               | [Link](https://github.com/emcie-co/parlant)            | ![GitHub Repo stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social)            |
 | AgentScope    | Designed for multi-agent, explicit message passing and workflow orchestration, NO deep encapsulation.                                                                                                                    | [Link](https://github.com/agentscope-ai/agentscope)    | ![GitHub Repo stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social)    |
 | Airweave      | Let agents search any app. It connects to apps, productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases, accessible through a standardized interface for agents. | [Link](https://github.com/airweave-ai/airweave)        | ![GitHub Repo stars](https://img.shields.io/github/stars/airweave-ai/airweave?style=social)        |
+| Spec-kit      | Toolkit for Spec-Driven Development provide a structured, predictable workflow for building with AI coding assistants.                                                                                                   | [Link](https://github.com/github/spec-kit)             | ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social)             |
 
 ## LLM Evaluation
 
