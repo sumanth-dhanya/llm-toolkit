@@ -476,7 +476,7 @@ I enjoy reading good technical blogs. Here are some of my frequent go-to enginee
 17. [Lilian Weng](https://lilianweng.github.io/)
 18. [Hammel for MLOps](https://hamel.dev/)
 19. [ai by hand - Tom Yeh](https://www.byhand.ai/)
-20. [Tiger Date Blog](https://www.tigerdata.com/blog)
+20. [Tiger Data Blog](https://www.tigerdata.com/blog)
 
 # llm-toolkit
 
