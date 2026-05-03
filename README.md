@@ -19,6 +19,19 @@ This repository contains a curated list of 244+ LLM libraries category wise.
 | [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
 | [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                         | [⚖️ LLM Evaluation Harness](#llm-evaluation-harness) |
 | [📖 LLM Learning](#llm-learning)                       | [🏞️ Image Tools](#image-tools)                                | [📱 LLM Mobile](#llm-mobile)                         |
+| [📖 Context Compression](#context-compression)         | [🏞️ Awesome Skills](#awesome-skills)                          |                                                      |
+
+## Awesome Skills
+
+| Skills                    | Description                                                                | Link                                        | Stars                                                                                   |
+|---------------------------|----------------------------------------------------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------|
+| software developmet skill | An agentic skills framework & software development methodology that works. | [Link](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) |
+
+## Context Compression
+
+| Library           | Description                                                                                                                                                                           | Link                                                   | Stars                                                                                              |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| code-review-graph | Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks. | [Link](https://github.com/tirth8205/code-review-graph) | ![GitHub Repo stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=social) |
 
 ## LLM Leaderboard
 
@@ -270,7 +283,7 @@ To evaluate an agent, identiy its failure modes and measure how often each of th
 | Spec-kit       | Toolkit for Spec-Driven Development provide a structured, predictable workflow for building with AI coding assistants.                                                                                                   | [Link](https://github.com/github/spec-kit)             | ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social)             |
 | AgenticSeek    | Local alternative to manus AI. Tailored for local reasoning models.                                                                                                                                                      | [Link](https://github.com/Fosowl/agenticSeek)          | ![GitHub Repo stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=social)          |
 | AgentLightning | train and improve AI agents without rewriting the logic.                                                                                                                                                                 | [Link](https://github.com/microsoft/agent-lightning)   | ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/agent-lightning?style=social)   |
-| Cognee         | Knowledge Engine for AI Agent Memory in 6 lines of code. Graph RAG                                                                                                                                                       | [Link](https://github.com/topoteretes/cognee)   | ![GitHub Repo stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)   |
+| Cognee         | Knowledge Engine for AI Agent Memory in 6 lines of code. Graph RAG                                                                                                                                                       | [Link](https://github.com/topoteretes/cognee)          | ![GitHub Repo stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social)          |
 
 ## LLM Evaluation
 
