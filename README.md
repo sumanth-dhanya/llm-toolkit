@@ -9,17 +9,17 @@ This repository contains a curated list of 244+ LLM libraries category wise.
 
 ## Quick links
 
-|                                                        |                                                                |                                                      |
-|--------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------|
+|                                                        |                                                             |                                                      |
+|--------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------|
 | [🚀 LLM Training](#llm-training-and-fine-tuning)       | [🧱 LLM Application Development](#llm-application-development) | [🩸LLM RAG](#llm-rag)                                | 
-| [🟩 LLM Inference](#llm-inference)                     | [🚧 LLM Serving](#llm-serving)                                 | [📤 LLM Data Extraction](#llm-data-extraction)       |
-| [🌠 LLM Data Generation](#llm-data-generation)         | [💎 LLM Agents](#llm-agents)                                   | [⚖️ LLM Evaluation](#llm-evaluation)                 | 
-| [🔍 LLM Monitoring](#llm-monitoring)                   | [📅 LLM Prompts](#llm-prompts)                                 | [📝 LLM Structured Outputs](#llm-structured-outputs) |
-| [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)               | [🔖 LLM Scraping](#llm-scraping)                     |
-| [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                                 | [🛠️ LLM Tools](#llm-tools)                          |
-| [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                         | [⚖️ LLM Evaluation Harness](#llm-evaluation-harness) |
-| [📖 LLM Learning](#llm-learning)                       | [🏞️ Image Tools](#image-tools)                                | [📱 LLM Mobile](#llm-mobile)                         |
-| [📖 Context Compression](#context-compression)         | [🏞️ Awesome Skills](#awesome-skills)                          |                                                      |
+| [🟩 LLM Inference](#llm-inference)                     | [🚧 LLM Serving](#llm-serving)                              | [📤 LLM Data Extraction](#llm-data-extraction)       |
+| [🌠 LLM Data Generation](#llm-data-generation)         | [💎 LLM Agents](#llm-agents)                                | [⚖️ LLM Evaluation](#llm-evaluation)                 | 
+| [🔍 LLM Monitoring](#llm-monitoring)                   | [📅 LLM Prompts](#llm-prompts)                              | [📝 LLM Structured Outputs](#llm-structured-outputs) |
+| [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models)            | [🔖 LLM Scraping](#llm-scraping)                     |
+| [ 🏁 LLM Leaderboard](#llm-leaderboard)                | [📈 LLM Scaling](#llm-scaling)                              | [🛠️ LLM Tools](#llm-tools)                          |
+| [❇️ Others](#others)                                   | [🔓 LLM MCP](#llm-mcp)                                      | [⚖️ LLM Evaluation Harness](#llm-evaluation-harness) |
+| [📖 LLM Learning](#llm-learning)                       | [🏞️ Image Tools](#image-tools)                             | [📱 LLM Mobile](#llm-mobile)                         |
+| [📝 Context Compression](#context-compression)       | [🕵️‍♂️ Awesome Skills](#awesome-skills)               |                                                      |
 
 ## Awesome Skills
 
