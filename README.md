@@ -43,9 +43,9 @@ This repository contains a curated list of 244+ LLM libraries category wise.
 | HF-Open-llm-leaderboard               | Open source model performance view                                                                                                                     | [Link](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard#/) |
 | Berkeley function calling leaderboard | evaluates the LLM's ability to call functions (aka tools) accurately.                                                                                  | [Link](https://gorilla.cs.berkeley.edu/leaderboard.html)                          |
 
-| [Link](https://gorilla.cs.berkeley.edu/leaderboard.html)                          |
 
-### LLM Training and Fine Tuning
+
+## LLM Training and Fine Tuning
 
 <p align = "center"> <b> Training Frameworks </b> </p>
 
