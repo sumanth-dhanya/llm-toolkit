@@ -26,6 +26,7 @@ This repository contains a curated list of 244+ LLM libraries category wise.
 | Skills                    | Description                                                                | Link                                        | Stars                                                                                   |
 |---------------------------|----------------------------------------------------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------|
 | software developmet skill | An agentic skills framework & software development methodology that works. | [Link](https://github.com/obra/superpowers) | ![GitHub Repo stars](https://img.shields.io/github/stars/obra/superpowers?style=social) |
+| spec-kit | A Spec driven development and works via git branching. Creates usefull prompt .md files as reference for LLMs| [Link](https://github.com/github/spec-kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/github/spec-kit?style=social) |
 
 ## Context Compression
 
