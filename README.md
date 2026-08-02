@@ -1,6 +1,6 @@
 # 👨🏻‍💻 LLM Engineer Toolkit
 
-This repository contains a curated list of 244+ LLM libraries category wise.
+This repository contains a curated list of 250+ LLM libraries category wise.
 <p align="center">
   <a href="https://www.linkedin.com/in/sumanth-dhanya/">
     <img src="https://custom-icon-badges.demolab.com/badge/Sumanth%20Dhanya-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
@@ -210,6 +210,7 @@ Note: ToDo: An absraction layer such as tool gateway, can also be useful for acc
 | torchchat      | Run PyTorch LLMs locally on servers, desktop, and mobile.                            | [Link](https://github.com/pytorch/torchchat)           | ![GitHub Repo stars](https://img.shields.io/github/stars/pytorch/torchchat?style=social)           |
 | TensorRT-LLM   | TensorRT-LLM is a library for optimizing Large Language Model (LLM) inference.       | [Link](https://github.com/NVIDIA/TensorRT-LLM)         | ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social)         |
 | WebLLM         | High-performance In-browser LLM Inference Engine.                                    | [Link](https://github.com/mlc-ai/web-llm)              | ![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/web-llm?style=social)              |
+| LLMCache       | Supercharge Your LLM with the Fastest KV Cache Layer                                 | [Link](https://github.com/LMCache/LMCache)             | ![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache?style=social)             |
 
 ## LLM Serving
 
