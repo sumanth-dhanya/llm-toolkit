@@ -104,6 +104,7 @@ This repository contains a curated list of 250+ LLM libraries category wise.
 | mcp-containers | Containerized versions of hundreds of MCP Servers                                                           | [Link](https://github.com/metorial/mcp-containers)         | ![GitHub Repo stars](https://img.shields.io/github/stars/metorial/mcp-containers?style=social)         |
 | TaskMaster     | A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI. | [Link](https://github.com/eyaltoledano/claude-task-master) | ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master?style=social) |
 | DeepMCPAgent   | Model-agnostic plug-n-play LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.          | [Link](https://github.com/cryxnet/deepmcpagent)            | ![GitHub Repo stars](https://img.shields.io/github/stars/cryxnet/deepmcpagent?style=social)            |
+| RunAPI MCP     | MCP server for model discovery, pricing lookup, media task creation, and balance checks.                    | [Link](https://github.com/runapi-ai/mcp)                   | ![GitHub Repo stars](https://img.shields.io/github/stars/runapi-ai/mcp?style=social)                   |
 
 # LLM Application Development
 
