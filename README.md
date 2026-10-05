@@ -35,6 +35,7 @@ This repository contains a curated list of 250+ LLM libraries category wise.
 | Library    | Description                                                                      | Link                                            | Stars                                                                                       |
 |------------|----------------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------|
 | OpenWorker | An open-source AI coworker that lives on your desktop and delivers finished work | [Link](https://github.com/andrewyng/openworker) | ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/openworker?style=social) |
+| [AI Group Call](https://aigroupcall.app) | Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call. | https://aigroupcall.app | - |
 
 ## Context Compression
 
