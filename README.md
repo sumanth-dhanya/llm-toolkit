@@ -95,6 +95,7 @@ This repository contains a curated list of 250+ LLM libraries category wise.
 | Firecrawl  | Empower your AI apps with clean data from any website. Featuring advanced scraping, crawling, and data extraction capabilities. | [Link](https://github.com/mendableai/firecrawl)                 | ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social)                 |
 | SerpAPI    | crape and parse search results from Google, Bing, Baidu, Yandex, Yahoo, Home Depot, eBay and more                               | [Link](https://github.com/serpapi/google-search-results-python) | ![GitHub Repo stars](https://img.shields.io/github/stars/serpapi/google-search-results-python?style=social) |
 | BrightData | Api to scrape data                                                                                                              | [Link](https://brightdata.com/)                                 |                                                                                                             |
+| Datacircle | Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website. | [Link](https://datacircle.dev) | |
 
 # LLM MCP
 
